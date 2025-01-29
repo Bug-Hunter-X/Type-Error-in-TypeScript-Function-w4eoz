@@ -1,0 +1,1 @@
+This repository contains a simple TypeScript program that demonstrates a type error. The `add` function expects two numbers as arguments but is called with a string and a number, resulting in a type error.  The solution shows how to properly type check function arguments and handle potential type mismatches.
